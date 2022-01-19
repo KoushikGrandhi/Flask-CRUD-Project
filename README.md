@@ -5,7 +5,7 @@
 ```
 pip install -r requirements.txt
 ```
-# Starting the project and run the below command
+# Start the application by running the below command
 ```
 python index.py
 ```
